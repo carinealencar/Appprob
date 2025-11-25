@@ -1,0 +1,5 @@
+{
+  "name": "ProbModeler",
+  "description": "Uma aplicação interativa para modelagem e visualização de distribuições probabilísticas (Normal e Poisson) com insights gerados por IA.",
+  "requestFramePermissions": []
+}
